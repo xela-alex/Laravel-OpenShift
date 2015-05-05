@@ -1,0 +1,26 @@
+
+
+p{
+     font-weight:bold;
+     font-size: 1.1em;
+    text-align : justify;
+
+ }
+th{ color: #0088cc;
+    text-align : center;
+
+}
+td{
+    text-align : center;
+   align : center;
+
+}
+h7 {
+    display: block;
+    font-size: 1.6em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    color: #0088cc;
+}

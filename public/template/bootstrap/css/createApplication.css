@@ -1,0 +1,22 @@
+
+p{
+     font-weight:bold;
+     font-size: 1.1em;
+    text-align : justify;
+
+ }
+
+h7 {
+    display: block;
+    font-size: 1.45em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    color: #0088cc;
+}
+
+#tamanyoMaxImagen {
+    width: 95%;
+    max-width: 250px;
+
+}
+.im-centered { margin: auto; max-width: 300px;}

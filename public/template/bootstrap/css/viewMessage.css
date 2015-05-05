@@ -1,0 +1,28 @@
+
+.center {
+    margin: 0 auto;
+    width: 80%;
+}
+
+p {
+    font-weight: bold;
+    font-size: 1.1em;
+    text-align: justify;
+
+}
+
+p1 {
+    font-size: 1.1em;
+    text-align: justify;
+
+}
+
+h7 {
+    display: block;
+    font-size: 1.6em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    color: #0088cc;
+}
